@@ -1,2 +1,2 @@
 # codeforces_A
-problems of set A
+codeforces problems set A solutions in c++
